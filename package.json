@@ -52,10 +52,10 @@
   "funding": "https://github.com/sponsors/mgks",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^1.1.2"
+    "cheerio": "^1.2.0"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
+    "@types/node": "^20.19.30",
     "tsup": "^8.0.0",
     "tsx": "^4.0.0",
     "typescript": "^5.0.0",
